@@ -1,2 +1,2 @@
 # RandomSentencesGenerator
-Simple console game. 
+Simple sentence generator мade by me during my studies in SofUni. 
